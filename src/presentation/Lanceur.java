@@ -19,7 +19,7 @@ public class Lanceur {
 		sSport.participerTriat(fati);
 		sSport.participerTriat(benji);
 		fati.respirer();
-		benji.etreAddict("WOW");
+		benji.etreAddict("FIFA");
 		//sSport.participerTriat(ced);
 	}
 	

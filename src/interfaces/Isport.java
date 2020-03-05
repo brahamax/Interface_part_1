@@ -7,7 +7,7 @@ public interface Isport {
 	abstract void pedaler ();
 	
 	default void respirer() {
-        System.out.println("hhhhhhhhhhh");
+        System.out.println("Je respire frere");
     }
 	
 	static void hello() 
